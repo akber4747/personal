@@ -16,3 +16,7 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+h2{
+	letter-spacing: 5px;
+	font-family: "Avenir";
+}
