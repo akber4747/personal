@@ -4,10 +4,11 @@ body {
 	line-height: 1.6;
 	font-size: 18px;
 	padding: 0 15px;
-	font-family: "Avenir";
+	font-family: "Helvetica";
 	color: #444;
-	background: #f2f2f2;
+	/*color: #f2f2f2;*/
 }
+
 a {
 	text-decoration: none;
 	color: #444;
@@ -15,8 +16,15 @@ a {
 }
 a:hover {
 	text-decoration: underline;
+	color: #444;
 }
 h2{
 	letter-spacing: 5px;
-	font-family: "Avenir";
+	font-family: "Helvetica";
+	text-transform: uppercase;
+}
+.name{
+	font-size: 36pt;
+	margin: 0;
+
 }
